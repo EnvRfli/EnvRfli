@@ -2,13 +2,13 @@ name: Generate snake graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # jalan tiap hari 00:00 UTC (~07:00 WIB)
+    - cron: "0 0 * * *"   # jalan harian 00:00 UTC
   workflow_dispatch:
   push:
     branches: ["main"]
 
 permissions:
-  contents: write   # agar boleh push ke branch `output`
+  contents: write
 
 jobs:
   build:
