@@ -20,7 +20,7 @@
 </p>
 
 ## 👋 About Me
-I’m **Rafli**, a **Mobile Developer focused on Flutter**. I love turning complex requirements into **clean, fast, offline-first** apps. I also work with **React** and **Laravel**, and I’m comfortable bridging front-end UI with data models, state management, and pragmatic delivery.
+I’m **Rafli**, a **Software Developer focused on Flutter, React, Laravel, React Navite, and Go**. I love turning complex requirements into **clean, fast, usefull** apps. I’m comfortable bridging front-end UI with data models, state management, and pragmatic delivery.
 
 - 🧩 Offline-first: Hive/local storage, background tasks  
 - 🔁 State management: Provider/Riverpod, predictable async flows  
