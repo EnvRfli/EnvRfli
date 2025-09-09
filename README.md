@@ -32,7 +32,7 @@ I’m **Rafli**, a **Software Developer focused on Flutter, React, Laravel, Reac
 
 ## 🛠️ Tech Stack
 **Mobile:** Flutter, Dart, React Native  
-**Web/BE:** React, Laravel, Node.js (basics), Go (a bit)  
+**Web/BE:** React, Laravel, Go (a bit)  
 **Data/Infra:** REST/JSON, MySQL, Firebase (auth/sync), Hive  
 **Tools:** Git/GitHub/GitLab, Android Studio, VS Code, CI/CD (basics)
 
@@ -48,10 +48,11 @@ I’m **Rafli**, a **Software Developer focused on Flutter, React, Laravel, Reac
 </p>
 
 ## 📌 Highlighted Projects
-- **Expense Tracker (v1.0.0)** — multi-APK release, dark theme, import/export, reports.  
+- **Expense Tracker (v1.0.1)** — multi-APK release, dark theme, import/export, reports.  
   _Next:_ Google login + backup & sync (Firebase).
 - **RSC Project (KAI)** — complex workflow UI, provider-based state, dynamic nodes, large JSON handling.
-- **NinoNime** — anime list site (React + Tailwind + Jikan API).  
+- **NinoList** — anime list site (React + Tailwind + Jikan API).
+- **ValoList** - valorant game information (React + Tailwind) 
 
 > Check my pinned repos below 👇 for code & releases.
 
