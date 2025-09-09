@@ -1,6 +1,6 @@
 <!-- Profile README for EnvRfli -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?&font=Raleway&color=2F80ED&size=28&center=true&vCenter=true&lines=Hi%2C+I'm+M.+Rafli+Agusta+Rizalfa;Flutter+Mobile+Developer;Clean%2C+offline-first+apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?&font=Raleway&color=2F80ED&size=28&center=true&vCenter=true&lines=Hi%2C+I'm+M.+Rafli+Agusta+Rizalfa;Flutter+or+React+Native+Mobile+Developer;Clean%2C+Code" />
 </p>
 
 <p align="center">
