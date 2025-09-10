@@ -57,9 +57,3 @@ I’m **Rafli**, a **Software Developer focused on Flutter, React, Laravel, Reac
 
 ## 📈 Activity
 <img src="https://github-readme-stats.vercel.app/api?username=EnvRfli&show_icons=true" />
-
----
-
-### 💬 Fun facts
-- Office-first enjoyer ☕ (more focus, fewer distractions)  
-- I ship, measure, iterate — and keep designs tidy 🧽
