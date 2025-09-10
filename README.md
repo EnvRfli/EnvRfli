@@ -48,8 +48,7 @@ I’m **Rafli**, a **Software Developer focused on Flutter, React, Laravel, Reac
 </p>
 
 ## 📌 Highlighted Projects
-- **Expense Tracker (v1.0.1)** — multi-APK release, dark theme, import/export, reports.  
-  _Next:_ Google login + backup & sync (Firebase).
+- **Expense Tracker (v1.0.1)** — multi-APK release, dark theme, import/export, reports.
 - **RSC Project (KAI)** — complex workflow UI, provider-based state, dynamic nodes, large JSON handling.
 - **NinoList** — anime list site (React + Tailwind + Jikan API).
 - **ValoList** - valorant game information (React + Tailwind) 
