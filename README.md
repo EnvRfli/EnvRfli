@@ -14,9 +14,6 @@
   <!-- <a href="https://www.linkedin.com/in/your-link/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.site">
-    <img src="https://img.shields.io/badge/Website-Portfolio-2EC4B6?style=flat&logo=google-chrome&logoColor=white" />
-  </a> -->
 </p>
 
 ## 👋 About Me
