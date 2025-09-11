@@ -10,10 +10,6 @@
   <a href="https://github.com/EnvRfli">
     <img src="https://img.shields.io/badge/GitHub-EnvRfli-181717?style=flat&logo=github" />
   </a>
-  <!-- ⟨optional⟩ add your LinkedIn/Website if available -->
-  <!-- <a href="https://www.linkedin.com/in/your-link/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 ## 👋 About Me
