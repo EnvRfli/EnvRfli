@@ -7,9 +7,6 @@
   <a href="mailto:mrafliagusta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mrafliagusta%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/EnvRfli">
-    <img src="https://img.shields.io/badge/GitHub-EnvRfli-181717?style=flat&logo=github" />
-  </a>
 </p>
 
 ## 👋 About Me
@@ -23,7 +20,7 @@ I’m **Rafli**, a **Software Developer focused on Flutter, React, Laravel, Reac
 **Reach me:** mrafliagusta@gmail.com
 
 ## 🛠️ Tech Stack
-**Mobile:** Flutter, Dart, React Native  
+**Mobile:** Flutter, React Native  
 **Web/BE:** React, Laravel, Go (a bit)  
 **Data/Infra:** REST/JSON, MySQL, Firebase (auth/sync), Hive  
 **Tools:** Git/GitHub/GitLab, Android Studio, VS Code, CI/CD (basics)
@@ -40,7 +37,7 @@ I’m **Rafli**, a **Software Developer focused on Flutter, React, Laravel, Reac
 </p>
 
 ## 📌 Highlighted Projects
-- **Expense Tracker (v1.0.1)** — multi-APK release, dark theme, import/export, reports.
+- **Expense Tracker (v1.0.2)** — multi-APK release, dark theme, import/export, reports.
 - **RSC Project (KAI)** — complex workflow UI, provider-based state, dynamic nodes, large JSON handling.
 - **NinoList** — anime list site (React + Tailwind + Jikan API).
 - **ValoList** - valorant game information (React + Tailwind) 
